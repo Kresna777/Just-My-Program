@@ -1,5 +1,5 @@
-# Just-My-Program
-## just my simple program with Python :)
+# My-Program
+## My simple program with Python :)
 
 I Coding With Python Run with Python for use My script
 
