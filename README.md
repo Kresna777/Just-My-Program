@@ -1,16 +1,11 @@
 # My-Program
 ## My simple program with Python :)
 
-I Coding With Python Run with Python for use My script
+Just my simple program & myResearch with python, run with python for use my script.
 
-* $ apt Install Python
+* `$ apt Install Python`
 
-Run :
-
-### for python 2 :
-  * `$ python2 <name script>`
-  
-### for python 3 :
+### Run :
   * `$ python <name script>`
-  * `$ python3 <name script>`
+  
 </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s></s>
